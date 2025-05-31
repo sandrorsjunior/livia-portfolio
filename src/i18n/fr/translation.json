@@ -42,7 +42,7 @@
         "startDate": "2022",
         "description": "Un outil web pour nettoyer et normaliser des jeux de données complexes avec SQL Server. J'ai développé une interface React avec des requêtes interactives et des aperçus en temps réel, en optimisant les JOINs et procédures stockées pour les grands volumes.",
         "images": [
-          "public/images/sqlserver.png"
+          "images/sqlserver.png"
         ],
         "url": "https://github.com/livia-react-projects/sql-data-cleaner",
         "technologies": [
@@ -57,7 +57,7 @@
         "startDate": "2023",
         "description": "Conception d'un tableau de bord Power BI intégré à React pour l'analyse commerciale. Utilisation de DAX pour créer des métriques calculées et intégration des visuels via l'API Power BI. J'ai appris à connecter des frameworks frontend avec des outils BI.",
         "images": [
-          "public/images/power-bi.jpg"
+          "images/power-bi.jpg"
         ],
         "url": "https://github.com/livia-react-projects/powerbi-dax",
         "technologies": [
