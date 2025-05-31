@@ -1,0 +1,254 @@
+{
+  "basic_info": {
+    "name": "Lívia Maria Rédua Nunes da Costa",
+    "titles": [
+      "Analyste fonctionnelle",
+      "Transformation digitale"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "www.linkedin.com/in/liviaredua"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "À propos",
+    "greeting": "Bonjour",
+    "content": " 👋 Avec plusieurs années d'expérience dans le développement de produits et les outils informatiques au sein d'environnements internationaux et dynamiques, je suis passionnée par la transformation digitale et la conduite du changement.",
+    "image": "myProfile.jpg",
+    "tech_stacks": []
+  },
+  "projects": {
+    "title": "Projets",
+    "projects": [
+      {
+        "title": "Tableau de bord de Web Scraping",
+        "startDate": "2023",
+        "description": "Un tableau de bord dynamique visualisant des données extraites de sites e-commerce. L'interface (développée avec React et TypeScript) affiche des tendances, tandis que le backend utilise Python (BeautifulSoup, Scrapy) pour l'extraction. J'ai appris à intégrer des APIs Python avec une interface React.",
+        "images": [
+          "images/webscraping.png"
+        ],
+        "url": "https://github.com/livia-react-projects/web-scraping-dashboard",
+        "technologies": [
+          {
+            "class": "devicon:python",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Outil de nettoyage de données SQL",
+        "startDate": "2022",
+        "description": "Un outil web pour nettoyer et normaliser des jeux de données complexes avec SQL Server. J'ai développé une interface React avec des requêtes interactives et des aperçus en temps réel, en optimisant les JOINs et procédures stockées pour les grands volumes.",
+        "images": [
+          "public/images/sqlserver.png"
+        ],
+        "url": "https://github.com/livia-react-projects/sql-data-cleaner",
+        "technologies": [
+          {
+            "class": "devicon:microsoftsqlserver",
+            "name": "SQL Server"
+          }
+        ]
+      },
+      {
+        "title": "Visualisations Power BI avec DAX",
+        "startDate": "2023",
+        "description": "Conception d'un tableau de bord Power BI intégré à React pour l'analyse commerciale. Utilisation de DAX pour créer des métriques calculées et intégration des visuels via l'API Power BI. J'ai appris à connecter des frameworks frontend avec des outils BI.",
+        "images": [
+          "public/images/power-bi.jpg"
+        ],
+        "url": "https://github.com/livia-react-projects/powerbi-dax",
+        "technologies": [
+          {
+            "class": "simple-icons:powerbi",
+            "name": "Power BI"
+          },
+          {
+            "class": "arcticons:ndax",
+            "name": "DAX"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "icons": [
+      {
+        "name": "Communication en projets",
+        "class": "mdi:message-text-outline",
+        "level": "90"
+      },
+      {
+        "name": "SAP S/4HANA",
+        "class": "mdi:sap",
+        "level": "85"
+      },
+      {
+        "name": "ERP (Planification des ressources d'entreprise)",
+        "class": "mdi:database-outline",
+        "level": "80"
+      },
+      {
+        "name": "Lean Six Sigma",
+        "class": "mdi:lightbulb-on-outline",
+        "level": "75"
+      },
+      {
+        "name": "5S",
+        "class": "mdi:tools",
+        "level": "70"
+      },
+      {
+        "name": "PowerBI",
+        "class": "mdi:microsoft-power-bi",
+        "level": "80"
+      },
+      {
+        "name": "QlikView",
+        "class": "mdi:chart-bar",
+        "level": "75"
+      },
+      {
+        "name": "Maximo for Maintenance",
+        "class": "mdi:wrench-outline",
+        "level": "70"
+      },
+      {
+        "name": "BPMn",
+        "class": "mdi:flowchart",
+        "level": "80"
+      },
+      {
+        "name": "Scrum",
+        "class": "mdi:scrum",
+        "level": "90"
+      },
+      {
+        "name": "Matlab",
+        "class": "mdi:chart-line",
+        "level": "65"
+      },
+      {
+        "name": "ImageJ",
+        "class": "mdi:image-filter-frames",
+        "level": "60"
+      },
+      {
+        "name": "freeCAD",
+        "class": "mdi:cube-outline",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Expérience professionnelle",
+    "experiences": [
+      {
+        "company": "VINCI CONSTRUCTION SI",
+        "title": "Analyste fonctionnelle",
+        "years": "Février 2023 - Aujourd'hui (2 ans 4 mois)",
+        "mainTech": "SAP, HIP",
+        "mainTechIcon": "mdi:sap",
+        "technologies": [
+          "Coordination d'équipes transverses",
+          "Déploiement de sites (100 sites déployés)",
+          "Planification et chiffrage",
+          "Étude des besoins",
+          "Rédaction de spécifications et tests",
+          "Définition de la comitologie et des processus de validation",
+          "Élaboration de plans de formation interne"
+        ]
+      },
+      {
+        "company": "Ford Brasil",
+        "title": "Analyste produits",
+        "years": "Avril 2022 - Août 2022 (5 mois)",
+        "mainTech": "Agile",
+        "mainTechIcon": "mdi:light-switch",
+        "technologies": [
+          "Mise en place de la culture agile",
+          "Animation de cérémonies agiles (estimation, revue, rétrospectives)",
+          "Pilotage et facilitation de réunions projet",
+          "Respect de la Definition of Done (DoD)",
+          "Collaboration avec le Product Owner",
+          "Création de métriques d'équipe",
+          "Identification et élimination d'obstacles"
+        ]
+      },
+      {
+        "company": "Gi Group",
+        "title": "Analyste fonctionnelle",
+        "years": "Août 2020 - Juin 2021 (11 mois)",
+        "mainTech": "Lean Six Sigma",
+        "mainTechIcon": "mdi:chart-timeline-variant",
+        "technologies": [
+          "Analyse de données de ligne de production",
+          "Amélioration continue (Lean Six Sigma, 5S)",
+          "Création et suivi d'indicateurs (PowerBI, QlikView)",
+          "Benchmark (processus de phosphatation)",
+          "Gestion de maintenance (Maximo for Maintenance)",
+          "Suivi de l'ECPL"
+        ]
+      },
+      {
+        "company": "LAAS-CNRS",
+        "title": "Stagiaire en R&D",
+        "years": "Mai 2019 - Septembre 2019 (5 mois)",
+        "mainTech": "Fabrication 3D",
+        "mainTechIcon": "mdi:cube-scan",
+        "technologies": [
+          "Création d'un actionneur à base d'hydrogel (fabrication 3D - freeCAD)",
+          "Préparation de solutions et réactions chimiques",
+          "Analyse du produit final (Matlab, ImageJ)"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Formation",
+    "degrees": [
+      {
+        "university": "Université de Technologie de Belfort-Montbéliard",
+        "degree": "Master en Management de projet",
+        "years": "Septembre 2022 - Janvier 2023"
+      },
+      {
+        "university": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+        "degree": "Diplôme d'ingénieur, Ingénierie des matériaux",
+        "years": "Mars 2015 - Octobre 2021"
+      },
+      {
+        "university": "Ecole Nationale Supérieure des Ingénieurs en Arts Chimiques et Technologiques",
+        "degree": "Ingénierie des matériaux",
+        "years": "Septembre 2018 - Août 2019"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "list": [
+      "Scrum fundamentals certified",
+      "Diplôme approfondi de langue française - DALF C1",
+      "Business Process Model and Notation - BPMn"
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "list": [
+      "Évaluation de la formation de calamine dans les industries sidérurgiques par analyse thermogravimétrique."
+    ]
+  },
+  "languages": {
+    "title": "Langues",
+    "list": [
+      "Portugais (Langue maternelle)",
+      "Anglais (Professionnel complet)",
+      "Espagnol (Compétence professionnelle limitée)",
+      "Français (Professionnel complet)"
+    ]
+  },
+  "copyright": "Droits d'auteur"
+}
